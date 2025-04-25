@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/nikolay/453503/ОАиП/LR4/build",
+  "command": "/usr/bin/g++   -g -std=gnu++20 -o CMakeFiles/MAINEXE.dir/Task_3.cpp.o -c /home/nikolay/453503/ОАиП/LR4/Task_3/Main/Task_3.cpp",
+  "file": "/home/nikolay/453503/ОАиП/LR4/Task_3/Main/Task_3.cpp",
+  "output": "CMakeFiles/MAINEXE.dir/Task_3.cpp.o"
+}
+]

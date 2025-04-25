@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Программирование\LR_5\Task_2\DynamicLibrary\Main\Main\Main.cpp(11,9): warning C4566: символ, представленный универсальным именем символа "\u2264", невозможно представить в текущей кодовой странице (1251)
+  Main.vcxproj -> C:\Программирование\LR_5\Task_2\DynamicLibrary\Main\x64\Debug\Main.exe

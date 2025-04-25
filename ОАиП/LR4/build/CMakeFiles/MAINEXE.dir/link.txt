@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/MAINEXE.dir/Task_3.cpp.o -o MAINEXE 

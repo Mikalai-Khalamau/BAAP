@@ -1,0 +1,4 @@
+/home/nikolay/LR_6/Task_1/Tests/build/CMakeFiles/runtests.dir
+/home/nikolay/LR_6/Task_1/Tests/build/CMakeFiles/test.dir
+/home/nikolay/LR_6/Task_1/Tests/build/CMakeFiles/edit_cache.dir
+/home/nikolay/LR_6/Task_1/Tests/build/CMakeFiles/rebuild_cache.dir

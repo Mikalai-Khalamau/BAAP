@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/MAINEXE.dir/Task_2.cpp.o CMakeFiles/MAINEXE.dir/Fun.cpp.o -o MAINEXE 

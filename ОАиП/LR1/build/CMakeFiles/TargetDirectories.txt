@@ -1,0 +1,3 @@
+/home/nikolay/453503/ОАиП/LR1/build/CMakeFiles/Taskcm.dir
+/home/nikolay/453503/ОАиП/LR1/build/CMakeFiles/edit_cache.dir
+/home/nikolay/453503/ОАиП/LR1/build/CMakeFiles/rebuild_cache.dir

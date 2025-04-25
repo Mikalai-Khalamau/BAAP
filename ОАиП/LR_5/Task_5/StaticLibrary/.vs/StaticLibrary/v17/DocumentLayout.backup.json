@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\LR_5\\Task_5\\StaticLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7941CA8-996F-4B5A-BFD6-8104EAF09205}|StaticLibrary\\StaticLibrary.vcxproj|C:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\LR_5\\Task_5\\StaticLibrary\\StaticLibrary\\Functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A7941CA8-996F-4B5A-BFD6-8104EAF09205}|StaticLibrary\\StaticLibrary.vcxproj|solutionrelative:StaticLibrary\\Functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7941CA8-996F-4B5A-BFD6-8104EAF09205}|StaticLibrary\\StaticLibrary.vcxproj|C:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\LR_5\\Task_5\\StaticLibrary\\StaticLibrary\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A7941CA8-996F-4B5A-BFD6-8104EAF09205}|StaticLibrary\\StaticLibrary.vcxproj|solutionrelative:StaticLibrary\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01260F0-F367-4593-BF6E-303EF2E65407}|Main\\Main.vcxproj|C:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\LR_5\\Task_5\\StaticLibrary\\Main\\Task_5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A01260F0-F367-4593-BF6E-303EF2E65407}|Main\\Main.vcxproj|solutionrelative:Main\\Task_5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task_5.cpp",
+              "DocumentMoniker": "C:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\LR_5\\Task_5\\StaticLibrary\\Main\\Task_5.cpp",
+              "RelativeDocumentMoniker": "Main\\Task_5.cpp",
+              "ToolTip": "C:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\LR_5\\Task_5\\StaticLibrary\\Main\\Task_5.cpp",
+              "RelativeToolTip": "Main\\Task_5.cpp",
+              "ViewState": "AgIAAEgAAAAAAAAAAAApwFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-01T17:25:30.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Functions.cpp",
+              "DocumentMoniker": "C:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\LR_5\\Task_5\\StaticLibrary\\StaticLibrary\\Functions.cpp",
+              "RelativeDocumentMoniker": "StaticLibrary\\Functions.cpp",
+              "ToolTip": "C:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\LR_5\\Task_5\\StaticLibrary\\StaticLibrary\\Functions.cpp",
+              "RelativeToolTip": "StaticLibrary\\Functions.cpp",
+              "ViewState": "AgIAAB0AAAAAAAAAAAApwCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-01T17:25:05.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Header.h",
+              "DocumentMoniker": "C:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\LR_5\\Task_5\\StaticLibrary\\StaticLibrary\\Header.h",
+              "RelativeDocumentMoniker": "StaticLibrary\\Header.h",
+              "ToolTip": "C:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\LR_5\\Task_5\\StaticLibrary\\StaticLibrary\\Header.h",
+              "RelativeToolTip": "StaticLibrary\\Header.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-01T17:24:49.903Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+/home/nikolay/LR_6/Task_1/Main/build/CMakeFiles/MAINEXE.dir
+/home/nikolay/LR_6/Task_1/Main/build/CMakeFiles/edit_cache.dir
+/home/nikolay/LR_6/Task_1/Main/build/CMakeFiles/rebuild_cache.dir

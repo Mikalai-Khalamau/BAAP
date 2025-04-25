@@ -1,0 +1,1 @@
+/usr/bin/c++  -fsanitize=address -g CMakeFiles/Taskcm.dir/Task_3.cpp.o -o Taskcm 

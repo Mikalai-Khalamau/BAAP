@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/MAINEXE.dir/Task_6.c.o -o MAINEXE 

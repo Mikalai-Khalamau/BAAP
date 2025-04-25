@@ -1,0 +1,19 @@
+Санитайзер g++
+g++ -o Address -fsanitize=address Task_8.cpp
+./Address
+-----------
+Санитайзер clang++
+clang++ -o Address -fsanitize=address Task_8.cpp
+./Address
+----------------
+Сборка
+g++ -g TASK_8.cpp -o TASK 
+---------
+GDB отладка
+gdb TASK
+b 2
+r
+n
+q
+
+

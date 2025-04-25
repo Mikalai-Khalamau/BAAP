@@ -1,0 +1,1 @@
+/usr/bin/c++  -fsanitize=address CMakeFiles/MAINEXE.dir/Task_3.cpp.o -o MAINEXE 

@@ -1,0 +1,19 @@
+Санитайзер g++
+g++ -o Leak -fsanitize=leak Task_8.cpp
+./Leak
+-----------
+Санитайзер clang++
+clang++ -o Leak -fsanitize=leak Task_8.cpp
+./Leak
+----------------
+Сборка
+g++ -g TASK_8.cpp -o TASK 
+---------
+GDB отладка
+gdb TASK
+b 2
+r
+n
+q
+
+

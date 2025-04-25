@@ -1,0 +1,20 @@
+Санитайзер g++
+g++ -o Thread -fsanitize=thread Task_8.cpp
+./Thread
+-----------
+Санитайзер clang++
+clang++ -o Thread -fsanitize=thread Task_8.cpp
+./Thread
+----------------
+Сборка
+g++ -g TASK_8.cpp -o TASK 
+---------
+GDB отладка
+gdb TASK
+b 2
+r
+n
+q
+
+
+

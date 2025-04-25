@@ -1,0 +1,3 @@
+/home/nikolay/453503/ОАиП/LR_7/Barrels/build/CMakeFiles/Barrels.dir
+/home/nikolay/453503/ОАиП/LR_7/Barrels/build/CMakeFiles/edit_cache.dir
+/home/nikolay/453503/ОАиП/LR_7/Barrels/build/CMakeFiles/rebuild_cache.dir

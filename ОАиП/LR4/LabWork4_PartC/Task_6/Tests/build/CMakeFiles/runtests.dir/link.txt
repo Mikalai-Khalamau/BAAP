@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/runtests.dir/Tests.cpp.o CMakeFiles/runtests.dir/home/nikolay/LR4/LabWork4_PartC/Task_6/Main/Fun.c.o -o runtests  /usr/lib/x86_64-linux-gnu/libgtest.a 

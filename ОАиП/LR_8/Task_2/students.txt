@@ -1,0 +1,12 @@
+i i i
+STRING i
+8
+36
+t t t
+STRING t
+7
+35
+y y y
+STRING y
+6
+34

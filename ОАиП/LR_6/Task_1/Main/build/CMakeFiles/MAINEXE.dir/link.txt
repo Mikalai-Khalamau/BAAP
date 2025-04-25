@@ -1,0 +1,1 @@
+/usr/bin/c++  -fsanitize=thread CMakeFiles/MAINEXE.dir/Task_1.cpp.o -o MAINEXE 

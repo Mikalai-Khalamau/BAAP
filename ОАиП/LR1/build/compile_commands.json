@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/nikolay/453503/ОАиП/LR1/build",
+  "command": "/usr/bin/c++    -fsanitize=address -g -std=gnu++17 -o CMakeFiles/Taskcm.dir/Task_3.cpp.o -c /home/nikolay/453503/ОАиП/LR1/Task_3.cpp",
+  "file": "/home/nikolay/453503/ОАиП/LR1/Task_3.cpp",
+  "output": "CMakeFiles/Taskcm.dir/Task_3.cpp.o"
+}
+]
